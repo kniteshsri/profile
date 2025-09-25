@@ -1,2 +1,1 @@
-# profile
-My Profile
+![Profile Picture](github-header-banner.png)
